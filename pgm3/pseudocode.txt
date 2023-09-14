@@ -1,0 +1,7 @@
+READ number
+remainder=number%2
+IF remainder==0
+	WRITE "Even Number"
+ELSE
+	WRITE "Odd Number"
+ENDIF
